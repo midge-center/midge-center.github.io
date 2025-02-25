@@ -1,0 +1,29 @@
+# Site settings
+title: The MIDGE Center
+email: pschloss@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+   The website for the MIDGE Center at the University of Michigan
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://midge-center.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  midge-center
+array: []
+
+# Build settings
+markdown: kramdown
+
+collections:
+  people:
+    output: true
+  science:
+    output: true
+  datasets:
+    output: true
+  papers:
+    output: true
+  tools:
+    output: true
+
+
+plugins:
+  - jekyll-sitemap
