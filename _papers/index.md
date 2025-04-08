@@ -15,11 +15,11 @@ title: Papers
 			<div class="legend">
 				<h4>Legend</h4>
 				<ul>
-					<li><i class="fa fa-file-pdf-o fa-lg"></i> PDF version of published paper</li>
-					<li><i class="fa fa-paypal fa-lg"></i> Preprint version of manuscript</li>
-					<li><i class="fa fa-github fa-lg" ></i> GitHub repository for paper</li>
-					<li><i class="fa fa-table fa-lg" ></i> Raw data used in manuscript</li>
-					<li><i class="ai ai-google-scholar ai-lg"></i> Google Scholar page</li>
+					<li><i class="fa-regular fa-file-pdf"></i> PDF version of published paper</li>
+					<li><i class="fa-brands fa-paypal"></i> Preprint version of manuscript</li>
+					<li><i class="fa-brands fa-github" ></i> GitHub repository for paper</li>
+					<li><i class="fa-solid fa-table"></i> Raw data used in manuscript</li>
+					<li><i class="fa-brands fa-google-scholar"></i> Google Scholar page</li>
 				</ul>
 			</div>
 		</div>

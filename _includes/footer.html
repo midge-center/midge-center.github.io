@@ -16,11 +16,18 @@
 						<a href="mailto:{{ site.email }}">
 							<i class="fa fa-envelope-o fa-lg" style="color:white"></i>
 						</a>
+            {% if site.twitter_username %}
 						<a href="https://twitter.com/{{ site.twitter_username }}">
-							<i class="fa fa-twitter fa-lg" style="color:white"></i>
+              <i class="fa-brands fa-twitter"></i>
 						</a>
-						<a href="https://github.com/{{ site.github_username }}">
-							<i class="fa fa-github fa-lg" style="color:white"></i>
+            {% endif %}
+            {% if site.bluesky_username %}
+						<a href="https://bluesky.com/{{ site.twitter_username }}" target="_blank">
+              <i class="fa-brands fa-bluesky"></i>
+						</a>
+            {% endif %}
+						<a href="https://github.com/{{ site.github_username }}" target="_blank">
+              <i class="fa-brands fa-github"></i>
 						</a>
 					</p>
 					{% if page.attribution != nil %}
