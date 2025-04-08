@@ -124,7 +124,31 @@ body {
 }
 .nav-pills li.active a:hover {
 	background-color: $comp-color;
+  border-color: $comp-color;
 }
+
+
+.mydrop li {
+  height: 18px;
+  margin: 0px 5px 10px 5px;
+  padding: 5px;
+  min-width: 70px;
+  background-color: $background-color;
+}
+
+.mydrop li a {
+  background-color: $background-color;
+  border-bottom-color: $background-color;
+  border: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-size: 14px;
+  text-decoration: none;
+  text-align: left;
+}
+
 
 
 .footer {

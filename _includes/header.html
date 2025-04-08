@@ -8,17 +8,29 @@
 
 <div class="header">
 	<div class="container-fluid">
+    <div class="collapse navbar-collapse">
 		<div class="pull-right">
-			<ul class="nav nav-pills">
+			<!-- <ul class="nav navbar-nav navbar-right"> -->
+      <ul class="nav nav-pills">
 				{% if page.category != "home" %}
 				<li role="presentation" ><a href="{{site.baseurl}}/">Home</a></li>
 				{% endif %}
-				<li role="presentation" {% if value == "science" %}class="active"{% endif %}><a href="{{ site.baseurl }}/science">Science</a></li>
-				<li role="presentation" {% if value == "data" %}class="active"{% endif %}><a href="{{ site.baseurl }}/datasets">Data</a></li>
+				<!-- <li ><a href="{{ site.baseurl }}/science">Science</a></li> -->
+        <li role="presentation" {% if value == "science" %}class="active dropdown"{% else %}class="dropdown"{% endif %}>
+          <a href="#" {% if value == "science" %}class="active dropdown-toggle"{% else %}class="dropdown-toggle"{% endif %}" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Science<span class="caret"></span></a>
+          <ul class="dropdown-menu mydrop">
+            <li><a href="{{ site.baseurl }}/science/virus">Viruses</a></li>
+            <li><a href="{{ site.baseurl }}/science/bacteria">Bacteria</a></li>
+            <li><a href="{{ site.baseurl }}/science/fungus">Fungi</a></li>
+            <li><a href="{{ site.baseurl }}/science/technology">Technology</a></li>
+          </ul>
+        </li>
+				<li role="presentation" {% if value == "datasets" %}class="active"{% endif %}><a href="{{ site.baseurl }}/datasets">Data</a></li>
 				<li role="presentation" {% if value == "tools" %}class="active"{% endif %}><a href="{{ site.baseurl }}/tools">Tools</a></li>
 				<li role="presentation" {% if value == "papers" %}class="active"{% endif %}><a href="{{ site.baseurl }}/papers">Papers</a></li>
 				<li role="presentation" {% if value == "people" %}class="active"{% endif %}><a href="{{ site.baseurl }}/people">People</a></li>
 			</ul>
 		</div>
+     </div>
 	</div>
 </div>
