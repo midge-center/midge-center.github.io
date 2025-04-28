@@ -9,7 +9,7 @@ theme_areas:
   - Technolog development core
 bluesky: 
 github: jboyko
-email: 
+email: jboyko@umich.edu
 linkedin:
 google_scholar: https://scholar.google.ca/citations?user=ACJr7RQAAAAJ&hl=en
 orcid: 0000-0003-0952-169X

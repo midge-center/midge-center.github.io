@@ -9,7 +9,7 @@ theme_areas:
   - Bacteria
 bluesky: 
 github: 
-email: 
+email: kwisk@umich.edu
 linkedin:
 google_scholar: 
 orcid: 

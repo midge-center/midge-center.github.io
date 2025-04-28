@@ -9,7 +9,7 @@ theme_areas:
   - Technology & Data Core
 bluesky: 
 github: 
-email: 
+email: mcgimpse@umich.edu
 linkedin:
 google_scholar: 
 orcid: 

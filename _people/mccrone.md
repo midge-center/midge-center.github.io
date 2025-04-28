@@ -9,7 +9,7 @@ theme_areas:
   - Virus
 bluesky: 
 github: jtmccr1
-email: mccrone@fredhutch.org 
+email: jmccrone@fredhutch.org
 linkedin:
 google_scholar: https://scholar.google.com/citations?user=HDCpj5IAAAAJ&hl=en
 orcid: 0000-0002-9846-8917
