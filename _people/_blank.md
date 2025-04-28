@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [virus, bacteria, fungus, admin, tech]
 name: 
 role: 
 research_group: 

@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [fungus]
 name: Guolei Zhao
 research_group: O'Meara
 role: Postdoctoral Fellow

@@ -1,12 +1,12 @@
 ---
 layout: people
-status: current
+status: [tech]
 name: Stephen Smith
 research_group: Smith
 role: Faculty
 picture: /assets/img/smith.jpg
 theme_areas:
-  - Technology
+  - Technology & Data Core
 bluesky: 
 github: blackrim
 email: eebsmith@umich.edu

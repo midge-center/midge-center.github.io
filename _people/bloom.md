@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [virus]
 name: Jesse Bloom
 role: Faculty
 research_group: Bloom

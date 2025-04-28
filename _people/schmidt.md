@@ -1,12 +1,12 @@
 ---
 layout: people
-status: current
+status: [bacteria]
 name: Thomas Schmidt
 role: Faculty
 research_group: Schmidt
 picture: /assets/img/schmidt.jpg
 theme_areas: 
-  - Bacteriology
+  - Bacteria
 bluesky: 
 github: 
 email: schmidti@med.umich.edu

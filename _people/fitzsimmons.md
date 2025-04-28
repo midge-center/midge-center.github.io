@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [virus]
 name: William Fitzsimmons
 role: Research Staff
 research_group: Lauring

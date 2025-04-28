@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [virus, admin]
 name: Adam Lauring
 role: Faculty
 research_group: Lauring

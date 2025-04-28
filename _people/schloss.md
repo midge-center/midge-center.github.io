@@ -1,11 +1,11 @@
 ---
 layout: people
-status: current
+status: [tech]
 name: Pat Schloss
 role: Faculty
 picture: /assets/img/schloss.jpg
 theme_areas:
-  - Technology development
+  - Technology & Data Core
 bluesky: patschloss
 github: pschloss
 email: pschloss@umich.edu

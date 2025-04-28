@@ -1,12 +1,12 @@
 ---
 layout: people
-status: current
+status: [fungus]
 name: J. Michelle Kahlenberg
 role: Faculty
 research_group: Kahlenberg
 picture: /assets/img/kahlenberg.jpg
 theme_areas:
-  - Emerging infections
+  - Fungi
 bluesky: 
 github: 
 email: mkahlenb@med.umich.edu

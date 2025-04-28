@@ -93,9 +93,10 @@ layout: default
 					{%	endfor							%}
 				</ul>
 
-
+        {% if content.size > 10 %}
         <h3>Background</h3>
         {{ content }}
+        {% endif %}
 
         {% assign labbie = page.url | remove:'/people/' | remove:'.html' %}
         {% assign labbie_papers = site.array %}

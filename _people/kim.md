@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [bacteria]
 name: Kwi Kim
 role: Research Staff
 research_group: Schmidt

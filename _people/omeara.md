@@ -1,6 +1,6 @@
 ---
 layout: people
-status: current
+status: [fungus]
 name: Teresa O'Meara
 role: Faculty
 research_group: O'Meara
