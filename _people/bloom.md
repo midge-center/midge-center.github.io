@@ -7,7 +7,7 @@ research_group: Bloom
 picture: /assets/img/bloom.jpg
 theme_areas:
   - Virus
-bluesky: 
+bluesky: jbloomlab
 github: jbloom
 email: jbloom@fredhutch.org
 linkedin:
