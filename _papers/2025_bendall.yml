@@ -1,0 +1,20 @@
+---
+title: In depth sequencing of a serially sampled household cohort reveals the within host dynamics of Omicron SARS-CoV-2 and rare selection of novel spike variants
+year: 2025
+order: 2
+authors: Bendall EE, Dimcheff D, Papalambros L, Fitzsimmons WJ, Zhu Y, Schmitz J, Halasa N, Chappell JD, Martin ET, Biddle JE, Smith-Jeffcoat SE, Rolfes MA, Mellis A, Talbot HK, Grijalva C, Lauring AS
+journal: PLoS Pathogens
+volume: 21
+issue: 4
+pages: e1013434
+doi: 10.1371/journal.ppat.1013134
+PMID: 40294030
+PMCID:
+preprint: https://doi.org/10.1101/2024.11.21.624722
+google_scholar:
+github: https://github.com/lauringlab/SARS-Cov-2_Within-host_RVTN
+data: https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA1159790
+people: [ lauring, bendall, fitzsimmons ]
+media:
+section: virus # virus, bacteria, fungus, tech
+---

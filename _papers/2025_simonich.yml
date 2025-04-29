@@ -1,0 +1,20 @@
+---
+title: RSV F evolution escapes some monoclonal antibodies but does not strongly erode neutralization by human polyclonal sera
+year: 2025
+order: 3
+authors: Simonich CAL, McMahon TE, Ju X, Yu TC, Brunette N, Stevens-Ayers T, Boeckh MJ, King NP, Greninger AL, Bloom JD
+journal: 
+volume:
+issue:
+pages:
+doi: 
+PMID: 40161760
+PMCID: PMC11952455
+preprint: https://doi.org/10.1101/2025.03.11.642476
+google_scholar:
+github: https://github.com/jbloomlab/RSV-evolution-neut
+data:
+people: [ simonich, mcmahon, bloom ]
+media:
+section: virus # virus, bacteria, fungus, tech
+---
