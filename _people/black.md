@@ -10,7 +10,7 @@ theme_areas:
 bluesky: 
 github: 
 email: karrieb@umich.edu
-linkedin:
+linkedin: karriekb
 google_scholar: 
 orcid: 
 research_gate: 
