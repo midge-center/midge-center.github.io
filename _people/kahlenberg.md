@@ -7,10 +7,10 @@ research_group: Kahlenberg
 picture: /assets/img/kahlenberg.jpg
 theme_areas:
   - Fungi
-bluesky: 
+bluesky: kahlenberglab
 github: 
 email: mkahlenb@med.umich.edu
-linkedin:
+linkedin: michelle-kahlenberg-216a4422
 google_scholar: https://scholar.google.com/citations?user=TqCc10MAAAAJ&hl=en
 orcid: 0000-0002-4006-8945
 research_gate: 

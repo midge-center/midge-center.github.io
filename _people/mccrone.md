@@ -1,7 +1,7 @@
 ---
 layout: people
 status: [virus]
-name: John T. McCrone
+name: JT McCrone
 role: Faculty
 research_group: 
 picture: /assets/img/mccrone.jpg
