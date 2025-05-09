@@ -17,7 +17,7 @@ research_gate:
 website: https://omeara.lab.medicine.umich.edu/
 pubmed: https://www.ncbi.nlm.nih.gov/myncbi/teresa.omeara.1/bibliography/public/
 phone: 
-address: 6605 MS2
+address: 6734B MS
 ---
 
 		
