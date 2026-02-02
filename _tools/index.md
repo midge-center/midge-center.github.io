@@ -23,6 +23,15 @@ An R-based workflow for assembling COVID-19 genome sequences from Nanopore or Il
 #### Sequencing bioinformatic pipelines [![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/lauringlab/Sequencing_bioinformatic_pipelines)
 Scripts and reference files needed to make consensus sequences for Influenza, SARS-CoV-2, and RSV.
 
+#### RVTN Within Host Evolution of SARS-CoV-2 [![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/lauringlab/SARS-Cov-2_Within-host_RVTN) [![Paper](https://img.shields.io/static/v1?style=flat&logo=google-scholar&label=+&message=Paper&color=white)](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1013134)
+This repository contains code and small intermediate data files associated with the manuscript "In depth sequencing of a serially sampled household cohort reveals the within-host dynamics of Omicron SARS-CoV-2 and rare selection of novel spike variants".
+
+#### RSV Evolution Neutralization Project [![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/jbloomlab/RSV-evolution-neut) [![Paper](https://img.shields.io/static/v1?style=flat&logo=google-scholar&label=+&message=Paper&color=white)](https://journals.asm.org/doi/10.1128/jvi.00531-25)
+This repository has the data for Simonich et al (2025), a study on RSV evolution from the Bloom lab.
+
+#### model-coinfection [![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/BROOKELAB/model-coinfection) [![Paper](https://img.shields.io/static/v1?style=flat&logo=google-scholar&label=+&message=Paper&color=white)](https://www.biorxiv.org/content/10.1101/2025.03.11.642476v1)
+Code for simulations published in "The fitness consequences of coinfection and reassortment among segmented viruses depend upon viral genetic structure".
+
 
 
 ### Bacteria
