@@ -1,0 +1,20 @@
+---
+title: Phylogenetic context of antibiotic resistance provides insights into the dynamics of resistance emergence and spread
+year: 2025
+order: 6
+authors: Gontjes KJ, Singh A, Sansom SE, Boyko JD, Smith SA, Lautenbach E, Snitkin E
+journal: J Infect Dis
+volume: 232
+issue: 6
+pages: e992-e1002
+doi: 10.1093/infdis/jiaf478
+PMID: 40971902
+PMCID: PMC12718047 
+preprint: https://www.medrxiv.org/content/10.1101/2025.06.04.25328982v1
+google_scholar:
+github: https://github.com/kylegontjes/phyloAMR
+data:
+people: [ gontjes, boyko, smith, snitkin ]
+media:
+section: tech # virus, bacteria, fungus, tech
+---

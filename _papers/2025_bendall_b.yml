@@ -1,0 +1,20 @@
+---
+title: In depth sequencing of a serially sampled household cohort reveals the within host dynamics of Omicron SARS-CoV-2 and rare selection of novel spike variants
+year: 2025
+order: 2
+authors: Bendall EE and Lauring AS
+journal: Microbiol Resour Announc
+volume: 14
+issue: 
+pages: e00901-25
+doi: 10.1128/mra.00901-25
+PMID: 41117534
+PMCID: PMC12613910
+preprint: https://doi.org/10.1101/2024.11.21.624722
+google_scholar:
+github: https://github.com/lauringlab/HMPV_IRMA_module
+data: 
+people: [ lauring, bendall ]
+media:
+section: virus # virus, bacteria, fungus, tech
+---
