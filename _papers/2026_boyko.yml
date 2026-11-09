@@ -1,0 +1,20 @@
+---
+title: "Resolving competing evolutionary histories in joint ancestral state reconstruction"
+year: 2026
+order: 1
+authors: Boyko JD, Gontjes KJ, Snitkin ES, Smith SA
+journal: Proceedings of the National Academy of Sciences
+volume: 123
+issue: 15
+pages: e2528064123
+doi: 10.1073/pnas.2528064123
+PMID: 41955119
+PMCID: PMC13079920
+preprint: https://doi.org/10.1101/2025.10.09.681367
+google_scholar:
+github: https://github.com/thej022214/corHMM
+data:
+people: [ schloss ]
+media:
+section:  tech # virus, bacteria, fungus, tech
+---

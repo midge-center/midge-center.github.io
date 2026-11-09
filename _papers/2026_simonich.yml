@@ -1,0 +1,20 @@
+---
+title: "Mutational constraints on RSV F and its neutralization by antibodies"
+year: 2026
+order: 7
+authors: Simonich CAL, McMahon TE, Juviler G, Kampman L, Chu HY, Bloom JD
+journal: Nature
+volume: 658
+issue:
+pages: 998–1007
+doi: 10.1038/s41586-026-11030-4
+PMID: 42749798
+PMCID: PMC13587686
+preprint: https://www.biorxiv.org/content/10.64898/2026.02.12.705519v3
+google_scholar:
+github: https://github.com/dms-vep/RSV_Long_F_DMS
+data:
+people: [ simonich, mcmahon, bloom ]
+media:
+section:  virus #, bacteria, fungus, tech
+---
